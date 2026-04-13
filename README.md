@@ -1,7 +1,4 @@
-# Daleel — Wheelchair Accessibility Map System
-
-> **"دليل"** (*Daleel*) means *guide* in Arabic — a digital guide empowering wheelchair users and people of determination to navigate the world independently.
-
+# Daleel — Wheelchair Accessibility Map System                                                                                                                      "دليل" (Daleel) means guide in Arabic — a digital guide empowering wheelchair users and people of determination to navigate the world independently.
 ---
 
 ## Table of Contents
